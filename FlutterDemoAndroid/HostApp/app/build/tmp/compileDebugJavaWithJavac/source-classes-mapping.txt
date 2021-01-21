@@ -1,0 +1,8 @@
+com/peter/myapplication/BuildConfig.java
+ com.peter.myapplication.BuildConfig
+com/peter/myapplication/MainActivity.java
+ com.peter.myapplication.MainActivity
+com/peter/myapplication/BridgeActivity.java
+ com.peter.myapplication.BridgeActivity
+ com.peter.myapplication.BridgeActivity$MyCachedEngineIntentBuilder
+ com.peter.myapplication.BridgeActivity$MyNewEngineIntentBuilder
